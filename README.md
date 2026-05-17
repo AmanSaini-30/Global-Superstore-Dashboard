@@ -1,6 +1,4 @@
-# Global-Superstore-Dashboard
-Interactive Power BI dashboard for Global Superstore sales and profit analysis.
-# Global-Superstore-Dashboard
+  # Global-Superstore-Dashboard
  
 An interactive Power BI dashboard designed for comprehensive sales and profit analysis of the Global Superstore dataset.
 
